@@ -1,7 +1,5 @@
 #include <iostream>
-#ifdef _WIN32
 #include <Windows.h>
-#endif
 #include <string>
 #include <sstream>
 #include <cmath>
