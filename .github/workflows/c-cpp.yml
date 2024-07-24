@@ -15,10 +15,10 @@ jobs:
     - uses: actions/checkout@v4
       name: Checkout code
 
-    - name: Install CMake
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y cmake
+    - name: Set up CMake
+      uses: actions/setup-cmake@v3
+      with:
+        cmake-version: '3.23.1' 
 
     - name: Configure CMake
       run: cmake -S . -B build
