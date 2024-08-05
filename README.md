@@ -43,3 +43,8 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Contact
 
 For questions or contributions, please reach out to [discord:subugt](https://discord.com/users/1088544030205431859).
+
+## TO DO LIST :
+add drift mode  otw
+full car control 360* otw
+npc kicker mode ( 180 * ) 
