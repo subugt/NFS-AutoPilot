@@ -3,6 +3,8 @@ autopilot project still in development
 
 This project is developed to use autopilot in the game Need for Speed™ Most Wanted by tracking the car's position. Written in cpp it reads the car's position information and automatically applies specific actions (accelerating, reversing, maneuvering).
 
+## Showcase
+https://streamable.com/k1iha7 
 ## Features
 
 - **Read Car Position:** Reads the X and Y coordinates of the car within the game.
